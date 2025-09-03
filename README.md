@@ -1,8 +1,6 @@
 # Card-project
 🔧 Technologies Used:
 * HTML5
-
-* CSS3 (Flexbox & Grid)
   
 🚀 How to Use:
 * Clone the repository
