@@ -4,7 +4,7 @@
 
 * CSS3 (Flexbox & Grid)
   
-  🚀 How to Use:
+🚀 How to Use:
 * Clone the repository
 
 * Open index.html in your browser
